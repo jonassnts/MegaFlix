@@ -1,0 +1,15 @@
+.rodape {
+    background-color: #190330;
+    display: grid;
+    font-family: 'Andika';
+    font-size: 15px;
+    height: 80px;
+}
+h3 {
+    color: white;
+    background-color: #190330;
+    font-family: 'Andika';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
